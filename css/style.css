@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  background-image: url(../images/fundo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.titulo {
+  font-family: "Urbanist";
+  color: white;
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+.destaque {
+  background:white;
+  color: royalblue;
+  padding: 0 5px;
+}
+
+.container img {
+  height: 250px;
+  width: 150px;
+  object-fit: cover;
+  margin: 5px;
+}
+
+video {
+  width: 90vw;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+iframe {
+  width: 90vw;
+}
