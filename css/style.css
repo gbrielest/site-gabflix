@@ -44,3 +44,18 @@ video {
 iframe {
   width: 90vw;
 }
+
+button{
+  font-family: "Poppins";
+  color:white;
+  padding: 5px;
+  border: 1px solid white;
+  margin: 10px;
+}
+
+input{
+  font-family: "Urbanist";
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+}
